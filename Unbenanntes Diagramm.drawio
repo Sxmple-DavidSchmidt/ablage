@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T12:47:26.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ssns0E8Z5z4a9Rm9-dvg" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T12:48:34.664Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="czVZbRMyu1X2VuE0sMt_" version="23.1.0" type="github">
   <diagram name="Seite-1" id="fOh8EZRNIXsu7HHHoq2w">
-    <mxGraphModel dx="1622" dy="2062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="1928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -191,7 +191,7 @@
         <mxCell id="sTEOdr6RWORlwUPbCyIz-201" value="Samples =&lt;br&gt;[RNA]" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-875" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sTEOdr6RWORlwUPbCyIz-231" value="&lt;h1&gt;References&lt;/h1&gt;&lt;p&gt;Here, the references for count / multi are generated or provided. When running this pipeline with RNA data, you concatenate a CAR Sample.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="sTEOdr6RWORlwUPbCyIz-231" value="&lt;h1&gt;References&lt;/h1&gt;&lt;p&gt;Here, the references for count / multi are generated or provided. When running this pipeline with RNA data, you could concatenate a CAR Sample.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="-1150" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-232" value="&lt;h1&gt;Samples&lt;/h1&gt;&lt;p&gt;Here, you can provide the samples you want to run the pipeline on. The behaviour and analysis done on them depends on the kind of files you provide (Are they exclusively RNA?)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
