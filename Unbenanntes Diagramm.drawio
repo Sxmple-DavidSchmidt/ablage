@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T11:59:04.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="dIjtxAtOPUzaoS72NtmZ" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T12:05:00.126Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="PNgLaH1qdgzBo--XRJ83" version="23.1.0" type="github">
   <diagram name="Seite-1" id="fOh8EZRNIXsu7HHHoq2w">
     <mxGraphModel dx="2122" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -204,6 +204,9 @@
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-232" value="&lt;h1&gt;Samples&lt;/h1&gt;&lt;p&gt;Here, you can provide the samples you want to run the pipeline on. The behaviour and analysis done on them depends on the kind of files you provide (Are they exclusively RNA?)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="69" y="-701" width="160" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="sTEOdr6RWORlwUPbCyIz-233" value="&lt;h1&gt;Possible Inputformat:&lt;/h1&gt;&lt;div&gt;[references]&lt;/div&gt;&lt;div&gt;reference, path&lt;/div&gt;&lt;div&gt;gene-expression, /path/to/gexref&lt;/div&gt;&lt;div&gt;vdj, None (Download at runtime)&lt;/div&gt;&lt;div&gt;feature, /path/to/feature.csv&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[car]&lt;/div&gt;&lt;div&gt;path, sample&lt;/div&gt;&lt;div&gt;/path/to/car.gtf, Sample_X&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;[libraries]&lt;/div&gt;&lt;div&gt;sample, fastq-dir, feature-type&lt;/div&gt;&lt;div&gt;SampleY, /path/to/fastqs, Gene Expression&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;SampleZ, /path/to/fastqs2, VDJ-B&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-298" width="301" height="252" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
