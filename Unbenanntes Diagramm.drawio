@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T12:45:37.233Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="n4Ul-0_-iGGyHYT6AiYv" version="23.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T12:47:26.058Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36 Edg/121.0.0.0" etag="ssns0E8Z5z4a9Rm9-dvg" version="23.1.0" type="github">
   <diagram name="Seite-1" id="fOh8EZRNIXsu7HHHoq2w">
     <mxGraphModel dx="1622" dy="2062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-248" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sTEOdr6RWORlwUPbCyIz-247">
           <mxGeometry x="-0.5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-90" value="Samples contain&lt;br&gt;RNA" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -100,12 +100,7 @@
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-250" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sTEOdr6RWORlwUPbCyIz-249">
           <mxGeometry x="-0.4147" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="sTEOdr6RWORlwUPbCyIz-251" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sTEOdr6RWORlwUPbCyIz-249">
-          <mxGeometry x="-0.5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-98" value="Samples contain&lt;br&gt;ADT" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -116,7 +111,7 @@
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-253" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sTEOdr6RWORlwUPbCyIz-252">
           <mxGeometry x="-0.5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-101" value="Samples contain&lt;br&gt;TRC/BCR" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -141,6 +136,11 @@
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="sTEOdr6RWORlwUPbCyIz-108" target="sTEOdr6RWORlwUPbCyIz-110">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sTEOdr6RWORlwUPbCyIz-299" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sTEOdr6RWORlwUPbCyIz-254">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint y="7" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sTEOdr6RWORlwUPbCyIz-108" value="Add CAR Sample?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="-1135" width="80" height="80" as="geometry" />
