@@ -23,17 +23,4 @@ public class BinaryTree {
         if (root == null) return "Empty Tree";
         return root.toString();
     }
-
-    public static void main(String[] args) {
-        BinaryTree tree = new BinaryTree();
-        tree.insert(0);
-        tree.insert(2);
-        tree.insert(-5);
-        tree.insert(-2);
-        tree.insert(-8);
-
-        System.out.println(tree.toString());
-        System.out.println(tree.getHeight());
-        System.out.println(tree.contains(-2));
-    }
 }
