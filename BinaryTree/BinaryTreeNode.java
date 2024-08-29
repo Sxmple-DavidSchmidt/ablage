@@ -54,17 +54,6 @@ public class BinaryTreeNode {
     public String toString() {
         return "{" + left + "} " + value + " { " + right + " } ";
     }
-
-    public static void main(String[] args) {
-        BinaryTreeNode root = new BinaryTreeNode(0);
-        root.insert(-2);
-        root.insert(2);
-        root.insert(1);
-        System.out.println(root);
-
-        System.out.println(root.getHeight());
-        System.out.println(root.contains(-3) + " " + root.contains(2));
-    }
 }
 
 
